@@ -1,16 +1,14 @@
-### Hi there 👋
+### Erik Haraldson
 
-<!--
-**eharaldson/eharaldson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 Looking for a junior role in Data Science/Machine Learning/Quantitative Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Graduate from Oxford (Engineering) and AiCore (Data Science)
+
+🤩 Machine Learning and Deep Learning enthusiast
+
+✨ Also very interested in trading and investing
+
+💬 Ask me about anything to do with data, AI, mathematics, statistics, and finance
+
+📫 Reach me at erikharaldson3@gmail.com
