@@ -7,7 +7,7 @@
 
 🤩 Machine Learning and Deep Learning enthusiast
 
-✨ Also very interested in trading and investing
+✨ Also interested in trading and investing
 
 💬 Ask me about anything to do with data, AI, mathematics, statistics, and finance
 
