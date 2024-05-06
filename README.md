@@ -1,9 +1,9 @@
 ### Erik Haraldson
 
 
-👨‍💻 Looking for a junior role in Data Science/Machine Learning/Quantitative Development
+👨‍💻 Data Scientist at Shift Technology in London, UK
 
-🌱 Graduate from Oxford (Engineering) and AiCore (Data Science)
+🌱 Graduate from Oxford (Masters in Engineering) and AiCore (Data Science bootcamp)
 
 🤩 Machine Learning and Deep Learning enthusiast
 
